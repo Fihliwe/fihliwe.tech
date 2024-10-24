@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* navbar Styling */
+.navbar {
+    background-color: white;
+    border-color: gray;
+    background-color: #1a202c; /* dark mode */
+}
